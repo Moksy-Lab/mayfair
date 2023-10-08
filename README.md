@@ -6,9 +6,9 @@ Moksy is your premier destination for open-source and 💯% free professional e-
 ### Our Mission
 To democratize e-learning by offering high-quality, professional templates at no cost. Designed on the Bootstrap framework, our templates are not only responsive but also meticulously documented, ensuring adaptability across various platforms.
 
-## May Fair London: eLearning Redefined
+## May Fair: eLearning Redefined
 
-Introducing **May Fair London**, a cutting-edge eLearning template tailored to revolutionize your educational experience. Built with the modern educator and learner in mind, it effortlessly combines aesthetics with functionality.
+Introducing **May Fair**, a cutting-edge eLearning template tailored to revolutionize your educational experience. Built with the modern educator and learner in mind, it effortlessly combines aesthetics with functionality.
 
 ### Key Features:
 - **Responsive Design:** Seamless experience across devices.
@@ -36,31 +36,31 @@ Introducing **May Fair London**, a cutting-edge eLearning template tailored to r
 
 ### Tags:
 - #eLearningTemplate
-- #MayFairLondon
+- #MayFair
 - #ResponsiveDesign
 - #OnlineEducation
 - #InteractiveUI
 - #Education2023
 
-### What is MayFairLondon :
-"May Fair London is a top-tier eLearning template, designed to elevate online educational platforms. With its responsive design and interactive UI, it stands out as a choice for educators aiming for excellence. Experience the future of eLearning with May Fair London."
+### What is MayFair :
+"May Fair is a top-tier eLearning template, designed to elevate online educational platforms. With its responsive design and interactive UI, it stands out as a choice for educators aiming for excellence. Experience the future of eLearning with May Fair."
 
-### Why Choose MayFairLondon?
+### Why Choose MayFair?
 **High Quality:** Built to the latest web standards ensuring quality and integrity.
 
 **SEO Ready:** Integrated with best practices in SEO, ensuring your platform's online visibility.
 
 **User-Centric:** Designed with user experience at its core.
 
-Harness the power of **MayFairLondon** for a transformative eLearning journey.
+Harness the power of **MayFair** for a transformative eLearning journey.
 
 
 ### Experience Moksy Live
 #### Moksy Official Site
-[May Fair London](https://moksy.com/templates/mayfairlondon/?project_id=21735)
+[May Fair](https://moksy.com/templates/mayfair/?project_id=21735)
 
 #### GitHub Repository
-[May Fair London](https://moksy-lab.github.io/mayfairlondon/)
+[May Fair](https://moksy-lab.github.io/mayfair/)
 
 ### Licensing
 Moksy proudly stands as an open-source initiative by [moksy.com](https://moksy.com), licensed under the [MIT](https://opensource.org/licenses/MIT). We, at moksy.com, reserve the right to modify the license terms for future releases.
@@ -75,13 +75,13 @@ Moksy proudly stands as an open-source initiative by [moksy.com](https://moksy.c
 Every team member at Moksy has dedicated themselves to serve the community. Your support fuels our motivation and ensures we can continue to offer these resources for free.
 
 ### Impressed with Our Template? 🌟
-<a href="https://github.com/Moksy-Lab/mayfairlondon">
+<a href="https://github.com/Moksy-Lab/mayfair">
     Give us a star on GitHub and help us reach more developers! ⭐️
 </a>
 
 ### Contribute & Collaborate
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/>
-<a href="https://github.com/Moksy-Lab/mayfairlondon">
+<a href="https://github.com/Moksy-Lab/mayfair">
 Join our community and contribute to an ever-evolving platform.
 </a>
 
