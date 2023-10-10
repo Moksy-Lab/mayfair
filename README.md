@@ -59,7 +59,7 @@ Harness the power of **MayFair** for a transformative eLearning journey.
 #### Moksy Official Site
 [May Fair](https://moksy.com/templates/mayfair/?project_id=21735)
 
-#### GitHub Repository
+#### GitHub Live Preview
 [May Fair](https://moksy-lab.github.io/mayfair/)
 
 ### Licensing
