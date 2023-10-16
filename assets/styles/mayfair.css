@@ -1,21 +1,24 @@
 /*****hectoria*****/
 /* #hectoria(headerfek1subypzu) #css starts  */
+.headerfek1subypzu .logo {
+    max-height: 50px;
+    max-width: 50px
+}
+.headerfek1subypzu .navbar-light .navbar-nav .nav-link {
+    color: #37423b
+}
 .headerfek1subypzu .btn-outline-primary{
     background-color: #5FCF80;
-    color: black
+    color: #fff
 }
 
 .headerfek1subypzu .navbar-light .navbar-nav .nav-item .nav-link:hover{
-    color: #3AC162
+    color: #fff
 }
 .btn-outline-primary:not(:disabled):not(.disabled):active{
     background-color: #5FCF80;
-    color: black
+    color: #fff
 }
-.headerfek1subypzu .logo {
-    max-height: 50px
-}
-
 /* #hectoria(headerfek1subypzu) #css ends  */
 /*****hectoria*****/
 
