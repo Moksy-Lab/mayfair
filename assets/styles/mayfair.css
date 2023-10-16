@@ -9,13 +9,15 @@
 }
 .headerfek1subypzu .btn-outline-primary{
     background-color: #5FCF80;
-    color: #fff
+    color: #fff;
+    padding: 8px 25px;
+    border-radius: 50px
 }
 
 .headerfek1subypzu .navbar-light .navbar-nav .nav-item .nav-link:hover{
     color: #3AC162
 }
-.btn-outline-primary:not(:disabled):not(.disabled):active{
+.headerfek1subypzu .btn-outline-primary:not(:disabled):not(.disabled):active{
     background-color: #5FCF80;
     color: #fff
 }
@@ -24,17 +26,35 @@
 
 /*****craig*****/
     /* #craig(calltoactionca75l1dtxe0) #css starts  */
-
+    .calltoactionca75l1dtxe0 .fdb-block {
+        padding: 5.5rem 0;
+        background-position: right;
+        background-image: url(https://images.unsplash.com/photo-1507537509458-b8312d35a233?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
+    }
+    .calltoactionca75l1dtxe0 h1 {
+        font-size: 48px;
+        color: #37423b;
+        font-weight: 600
+    }
+    .calltoactionca75l1dtxe0 .lead {
+        font-size: 24px;
+        color: #37423b
+    }
     .calltoactionca75l1dtxe0 .btn-light {
         border: none;
         font-weight: bold;
+        padding: 8px 25px;
+        border-radius: 50px
     }
     .calltoactionca75l1dtxe0 .btn-light:not(:disabled):not(.disabled):active,
-    .calltoactionca75l1dtxe0,
     .calltoactionca75l1dtxe0 .btn-light:hover {
         background-color: #5FCF80
     }
     
+    .calltoactionca75l1dtxe0 .btn-dark:hover{
+    padding: 8px 25px;
+    border-radius: 50px;
+    }
     .calltoactionca75l1dtxe0 .btn-dark:hover,
     .calltoactionca75l1dtxe0 .btn-dark:not(:disabled):not(.disabled):active,
     .calltoactionca75l1dtxe0 .btn-dark:focus {
