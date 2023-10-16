@@ -13,13 +13,14 @@
     padding: 8px 25px;
     border-radius: 50px
 }
+.headerfek1subypzu .btn-outline-primary:hover,
+.headerfek1subypzu .btn-outline-primary:not(:disabled):not(.disabled):active{
+    background-color: #3AC162;
+    color: #fff
+}
 
 .headerfek1subypzu .navbar-light .navbar-nav .nav-item .nav-link:hover{
-    color: #3AC162
-}
-.headerfek1subypzu .btn-outline-primary:not(:disabled):not(.disabled):active{
-    background-color: #5FCF80;
-    color: #fff
+    color: #5FCF80
 }
 /* #hectoria(headerfek1subypzu) #css ends  */
 /*****hectoria*****/
@@ -51,7 +52,7 @@
         background-color: #5FCF80
     }
     
-    .calltoactionca75l1dtxe0 .btn-dark:hover{
+    .calltoactionca75l1dtxe0 .btn-dark{
     padding: 8px 25px;
     border-radius: 50px;
     }
