@@ -165,10 +165,11 @@
         padding: 5.5rem 0
     }
     .pricesteraco9r7ex h1 {
-        padding: 34px
+        font-size: 34px
     }
     .pricesteraco9r7ex .h4{
-        color: #3AC162
+        font-size: 20px;
+        color: #37423b
     }
     .pricesteraco9r7ex h2{
         font-size: 20px
@@ -177,10 +178,17 @@
         background-color: #37423b!important;
     }
        .pricesteraco9r7ex .btn-secondary{
-        background: #5FCF80;
+        background: #fff;
         font-weight: bold;
-        color: #050D13;
-        border: none
+        border: 1px solid #37423b;
+        padding: 8px 25px;
+        background-color: #fff;
+        border-radius: 50px
+    }
+    .pricesteraco9r7ex .btn-secondary:hover {
+    color: #fff !important;
+    background: #5FCF80 !important;
+    border: 1px solid #5FCF80 !important
     }
     .pricesteraco9r7ex .btn-secondary:not(:disabled):not(.disabled):active{
         background: #5FCF80;
@@ -191,8 +199,17 @@
 
 /*****tanika*****/ 
 /* #tanika(teamtmpxpt1wbh8) #css starts */
+.teamtmpxpt1wbh8 .fdb-block {
+    padding: 5.5rem 0
+}
+.teamtmpxpt1wbh8  h1{
+    font-size: 34px
+   }
+   .lead {
+    font-size: 24px
+}
 .teamtmpxpt1wbh8  h4{
-    color: #3AC162
+    color: #37423b
    }
 
 /* #tanika(teamtmpxpt1wbh8) #css ends */
