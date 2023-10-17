@@ -161,8 +161,20 @@
 
 /*****publio*****/
     /* #publio(pricesteraco9r7ex) #css starts  */
+    .pricesteraco9r7ex .fdb-block {
+        padding: 5.5rem 0
+    }
+    .pricesteraco9r7ex h1 {
+        padding: 34px
+    }
     .pricesteraco9r7ex .h4{
         color: #3AC162
+    }
+    .pricesteraco9r7ex h2{
+        font-size: 20px
+    }
+    .pricesteraco9r7ex .bg-dark {
+        background-color: #37423b!important;
     }
        .pricesteraco9r7ex .btn-secondary{
         background: #5FCF80;
