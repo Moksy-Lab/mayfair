@@ -71,7 +71,7 @@
         font-size: 24px
      }
      .flynnpom0pcxyokh strong{
-        color: #3AC162
+        color: #37423b
      }
     /* #flynn(flynnpom0pcxyokh) #css ends  */
 /*****flynn*****/
@@ -108,8 +108,12 @@
 
 /*****florence*****/
 /* #florence(florencepo6oslbpdcb) #css starts */
+.florencepo6oslbpdcb .fdb-block {
+    padding: 5.5rem 0
+}
 .florencepo6oslbpdcb .fdb-block p a{
-    color: #5FCF80
+    color: #37423b;
+    font-weight: 700
 }
 .florencepo6oslbpdcb .fdb-block p a:hover{
     color: #3AC162
