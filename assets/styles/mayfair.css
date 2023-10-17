@@ -219,7 +219,7 @@
 /* #foot(footftkxsoham8f) #css starts */
 .footftkxsoham8f h3{    
     margin-left: 15px;
-    color: #5FCF80
+    color: #37423b
 }
 .footftkxsoham8f h3 .social{
     margin-left: 5px
@@ -236,6 +236,9 @@
 }
 .footftkxsoham8f .fab{
     color: #050D13
+}
+.footftkxsoham8f .lead {
+    margin-left: 15px
 }
 /* #foot(footftkxsoham8f) #css ends */
 /*****foot*****/
