@@ -101,7 +101,8 @@
 }
 .fosilftkuy5166le .fdb-block h4{
     margin-top: 1.25rem;
-    color: #3AC162
+    color: #37423b;
+    font-weight: 700
 }
 /* #fosil(fosilftkuy5166le) #css starts */
 /*****fosil*****/
@@ -110,6 +111,10 @@
 /* #florence(florencepo6oslbpdcb) #css starts */
 .florencepo6oslbpdcb .fdb-block {
     padding: 5.5rem 0
+}
+.florencepo6oslbpdcb .fdb-block h2{
+    font-size: 34px;
+    font-weight: 700
 }
 .florencepo6oslbpdcb .fdb-block p a{
     color: #37423b;
