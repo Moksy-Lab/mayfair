@@ -49,19 +49,12 @@
     }
     .calltoactionca75l1dtxe0 .btn-light:not(:disabled):not(.disabled):active,
     .calltoactionca75l1dtxe0 .btn-light:hover {
-        background-color: #5FCF80
+        background-color: #3AC162;
+        color: #fff
     }
     
     .calltoactionca75l1dtxe0 .btn-dark{
-    padding: 8px 25px;
-    border-radius: 50px;
-    }
-    .calltoactionca75l1dtxe0 .btn-dark:hover,
-    .calltoactionca75l1dtxe0 .btn-dark:not(:disabled):not(.disabled):active,
-    .calltoactionca75l1dtxe0 .btn-dark:focus {
-        font-weight: bold;
-        border-color: #343A40;
-        background-color: #343A40
+        display: none
     }
     /* #craig(calltoactionca75l1dtxe0) #css ends  */
 /*****craig*****/
@@ -69,7 +62,13 @@
 /*****flynn*****/
     /* #flynn(flynnpom0pcxyokh) #css starts  */
     .flynnpom0pcxyokh .fdb-block {
-        padding: 7.5rem 0
+        padding: 5.5rem 0
+     }
+     .flynnpom0pcxyokh h1 {
+        font-size: 34px
+     }
+     .flynnpom0pcxyokh .lead {
+        font-size: 24px
      }
      .flynnpom0pcxyokh strong{
         color: #3AC162
@@ -80,15 +79,17 @@
 /*****cade*****/
  /* #cade(af598102c9dad94e) #css starts  */
  .counteraf598102c9dad94e{
-    padding: 7.5rem 0
+    padding: 5.5rem 0
  }
  .counteraf598102c9dad94e h2{
-    font-size: 44px;
-    color: #3AC162   
+    font-size: 48px;
+    font-weight: 700;
+    color: #5FCF80   
 }
 .counteraf598102c9dad94e h4{
-    font-size: 22px;
-    color: #050D13
+    font-size: 15px;
+    font-weight: 600;
+    color: #37423b
 }
 /* #cade(af598102c9dad94e) #css ends  */
 /*****cade*****/
