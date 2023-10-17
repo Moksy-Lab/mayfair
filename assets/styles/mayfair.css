@@ -73,6 +73,9 @@
      .flynnpom0pcxyokh strong{
         color: #37423b
      }
+     .flynnpom0pcxyokh p{
+        color: #878787
+     }
     /* #flynn(flynnpom0pcxyokh) #css ends  */
 /*****flynn*****/
 
@@ -104,6 +107,9 @@
     color: #37423b;
     font-weight: 700
 }
+.fosilftkuy5166le p {
+    color: #878787
+}
 /* #fosil(fosilftkuy5166le) #css starts */
 /*****fosil*****/
 
@@ -129,18 +135,27 @@
 
 /*****freya*****/
 /* #freya(freyategxpfzk1ni) #css starts */
+.freyategxpfzk1ni .fdb-block {
+    padding: 5.5rem 0
+}
   .freyategxpfzk1ni  .fdb-block .fdb-box {
       color: #050D13
   }
 
-      .freyategxpfzk1ni   .fdb-block .fdb-touch {
+      .freyategxpfzk1ni  .fdb-block .fdb-touch {
       border-top: solid 0.3125rem #5FCF80
      }
 
      .freyategxpfzk1ni .fdb-block img + h2 {
-        color: #3AC162;
-      margin-top: 2.5rem
+    color: #37423b;
+    margin-top: 2.5rem;
+    font-weight: 700;
+    font-size: 20px;
      }
+     
+     .freyategxpfzk1ni p {
+        color: #878787
+    }
 /* #freya(freyategxpfzk1ni) #css starts */
 /*****freya*****/
 
