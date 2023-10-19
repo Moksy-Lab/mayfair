@@ -27,18 +27,9 @@
 
 /*****craig*****/
     /* #craig(calltoactionca75l1dtxe0) #css starts  */
-    .calltoactionca75l1dtxe0{
-      position: relative;
-	  background-image: url("https://images.unsplash.com/photo-1546430498-05c7b929830e?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-	  background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-    }
-
     .calltoactionca75l1dtxe0 .fdb-block {
         padding: 5.5rem 0;
-        backdrop-filter: blur(5px); /* blur effect to the backdrop */
-	  background-color: rgba(255, 255, 255, 0.2);
+        background-image: url("https://images.unsplash.com/photo-1546430498-05c7b929830e?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
        
     }
     .calltoactionca75l1dtxe0 h1 {
