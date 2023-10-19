@@ -27,16 +27,19 @@
 
 /*****craig*****/
     /* #craig(calltoactionca75l1dtxe0) #css starts  */
-#calltoactionca75l1dtxe0{
-    width: 100%;
-    height: 80vh;
-    background: url(https://bootstrapmade.com/demo/templates/Mentor/assets/img/hero-bg.jpg) top center;
-    background-size: cover;
-    position: relative;
-}
+    .calltoactionca75l1dtxe0{
+      position: relative;
+	  background-image: url("https://images.unsplash.com/photo-1546430498-05c7b929830e?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+	  background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
 
     .calltoactionca75l1dtxe0 .fdb-block {
         padding: 5.5rem 0;
+        backdrop-filter: blur(5px); /* blur effect to the backdrop */
+	  background-color: rgba(255, 255, 255, 0.2);
+       
     }
     .calltoactionca75l1dtxe0 h1 {
         font-size: 48px;
@@ -62,19 +65,8 @@
     .calltoactionca75l1dtxe0 .btn-dark{
         display: none
     }
-    @media (min-width: 1024px)
-#calltoactionca75l1dtxe0 {
-    background-attachment: fixed;
-}
-#calltoactionca75l1dtxe0:before {
-    content: "";
-    background: rgba(0, 0, 0, 0.4);
-    position: absolute;
-    bottom: 0;
-    top: 0;
-    left: 0;
-    right: 0;
-}
+
+
     /* #craig(calltoactionca75l1dtxe0) #css ends  */
 /*****craig*****/
 
