@@ -29,7 +29,8 @@
     /* #craig(calltoactionca75l1dtxe0) #css starts  */
     .calltoactionca75l1dtxe0 .fdb-block {
         padding: 5.5rem 0;
-        background-position: right;
+        background-size: cover;
+        position: relative;
         background-image: url(https://bootstrapmade.com/demo/templates/Mentor/assets/img/hero-bg.jpg)
     }
     .calltoactionca75l1dtxe0 h1 {
@@ -56,6 +57,19 @@
     .calltoactionca75l1dtxe0 .btn-dark{
         display: none
     }
+    @media (min-width: 1024px)
+#calltoactionca75l1dtxe0 {
+    background-attachment: fixed;
+}
+#calltoactionca75l1dtxe0:before {
+    content: "";
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
     /* #craig(calltoactionca75l1dtxe0) #css ends  */
 /*****craig*****/
 
