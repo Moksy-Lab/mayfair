@@ -27,11 +27,16 @@
 
 /*****craig*****/
     /* #craig(calltoactionca75l1dtxe0) #css starts  */
+#calltoactionca75l1dtxe0{
+    width: 100%;
+    height: 80vh;
+    background: url(https://bootstrapmade.com/demo/templates/Mentor/assets/img/hero-bg.jpg) top center;
+    background-size: cover;
+    position: relative;
+}
+
     .calltoactionca75l1dtxe0 .fdb-block {
         padding: 5.5rem 0;
-        background-size: cover;
-        position: relative;
-        background-image: url(https://bootstrapmade.com/demo/templates/Mentor/assets/img/hero-bg.jpg)
     }
     .calltoactionca75l1dtxe0 h1 {
         font-size: 48px;
