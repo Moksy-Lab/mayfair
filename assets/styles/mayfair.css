@@ -22,6 +22,22 @@
 .headerfek1subypzu .navbar-light .navbar-nav .nav-item .nav-link:hover{
     color: #5FCF80
 }
+
+/*****Menu Toggle Icon Starts*****/
+.headerfek1subypzu .navbar-open-icon {
+    display: inline;
+}
+.headerfek1subypzu .navbar-close-icon {
+    display: none;
+}
+.headerfek1subypzu .navbar-toggler[aria-expanded="true"] .navbar-open-icon {
+    display: none;
+}
+.headerfek1subypzu .navbar-toggler[aria-expanded="true"] .navbar-close-icon {
+    display: inline;
+}
+/*****Menu Toggle Icon Ends*****/
+
 /* #hectoria(headerfek1subypzu) #css ends  */
 /*****hectoria*****/
 
