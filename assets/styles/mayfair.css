@@ -25,41 +25,44 @@
 /* #hectoria(headerfek1subypzu) #css ends  */
 /*****hectoria*****/
 
-/*****craig*****/
-    /* #craig(calltoactionca75l1dtxe0) #css starts  */
-    .calltoactionca75l1dtxe0 .fdb-block {
-        padding: 5.5rem 0;
-        background-image: url("https://images.unsplash.com/photo-1546430498-05c7b929830e?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-       
-    }
-    .calltoactionca75l1dtxe0 h1 {
+/*****adolf*****/
+/* #adolf(p3dce575962b3c369) #css starts  */
+.aboutp3dce575962b3c369{
+    padding: 0.5rem 0
+}
+.aboutp3dce575962b3c369 .jumbotron{
+    background: #fff
+}
+.aboutp3dce575962b3c369 .DescriptionHeading {
         font-size: 48px;
-        color: #fff;
-        font-weight: 600
+        color: #37423b
     }
-    .calltoactionca75l1dtxe0 .lead {
-        font-size: 24px;
-        color: #fff
+.aboutp3dce575962b3c369 .font-weight-bold {
+        font-weight: 600!important;
     }
-    .calltoactionca75l1dtxe0 .btn-light {
-        border: none;
-        font-weight: bold;
-        padding: 8px 25px;
-        border-radius: 50px
-    }
-    .calltoactionca75l1dtxe0 .btn-light:not(:disabled):not(.disabled):active,
-    .calltoactionca75l1dtxe0 .btn-light:hover {
-        background-color: #3AC162;
-        color: #fff
+
+    .aboutp3dce575962b3c369 .DescriptionPara {
+        color: #37423b;
+        font-size: 24px
     }
     
-    .calltoactionca75l1dtxe0 .btn-dark{
-        display: none
+    .aboutp3dce575962b3c369 .badge{
+        display: none;
     }
-
-
-    /* #craig(calltoactionca75l1dtxe0) #css ends  */
-/*****craig*****/
+    .aboutp3dce575962b3c369 .searchBtn{
+    font-weight: bold;
+    background-color: #5FCF80;
+    color: #fff;
+    padding: 8px 25px;
+    border-radius: 50px;
+    }
+    .aboutp3dce575962b3c369 .searchBtn:hover,
+    .aboutp3dce575962b3c369 .searchBtn:not(:disabled):not(.disabled):active{
+        background-color: #3AC162;
+        color: #fff
+        }
+/* #adolf(p3dce575962b3c369) #css ends  */
+/*****adolf*****/
 
 /*****flynn*****/
     /* #flynn(flynnpom0pcxyokh) #css starts  */
