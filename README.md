@@ -95,11 +95,9 @@ Join our community and contribute to an ever-evolving platform.
 
 ### Image Credits
 We're grateful for the free image resources provided by:
-- [Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
-- [Graphicsfuel](https://www.graphicsfuel.com/2013/02/13-high-resolution-blur-backgrounds/)
-- [Pickaface](https://pickaface.net/)
+- [Pixeden](https://www.pixeden.com/)
+- [Shutterstock](https://www.shutterstock.com/)
 - [Unsplash](https://unsplash.com/)
-- [Uifaces](http://uifaces.com/)
 
 ### Get in Touch
 **Location**: Moksy, 3-5 Marco polo house, Croydon, CR0 2BX
